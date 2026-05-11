@@ -1,0 +1,5 @@
+streamlit>=1.28.0
+pandas>=1.5.3
+plotly>=5.17.0
+#may not be best to use latest versions due to potential vulnerability.
+#specify package versions which can be to use latest minor versions etc.
